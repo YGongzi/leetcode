@@ -15,5 +15,6 @@ public class _01两数之和 {
 
         System.out.println("我是你爹");
         System.out.println("不用说谢谢哦");
+        System.out.println("nihaoa");
     }
 }
