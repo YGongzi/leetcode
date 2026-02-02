@@ -33,3 +33,5 @@ def twoSum(nums, target):
 nums = [2, 7, 11, 15]
 target = 9
 print(twoSum(nums, target))  # 输出：[0, 1]
+
+print("kuaidianhao")
