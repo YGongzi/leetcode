@@ -35,3 +35,4 @@ target = 9
 print(twoSum(nums, target))  # 输出：[0, 1]
 
 print("kuaidianhao")
+print('woshinidie我是你爹')
